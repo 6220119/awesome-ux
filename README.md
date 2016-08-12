@@ -67,3 +67,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Guides
 - http://www.google.com/design/
+
+## Surveys
+- http://garyperlman.com/quest/
