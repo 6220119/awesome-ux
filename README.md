@@ -28,6 +28,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - http://www.invisionapp.com/
 - http://www.uxpin.com/
 - http://gomockingbird.com
+- http://uxchecklist.github.io/
 
 ## Design Patterns
 - http://pttrns.com/
